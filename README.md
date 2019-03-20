@@ -15,9 +15,7 @@ Project dependencies are managed using Dep. Read more about [Dep](https://github
 * Install dependencies: `dep ensure`
 * Update dependencies: `dep ensure -update`
 
-## Save messenger
-
-> Configuration
+## Configuration
 ```
 {
   "messenger": {
