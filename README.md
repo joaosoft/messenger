@@ -8,7 +8,7 @@ A simple messenger with socket notification. (This implementation should use for
 
 ###### If i miss something or you have something interesting, please be part of this project. Let me know! My contact is at the end.
 
-## Dependecy Management 
+## Dependency Management 
 >### Dep
 
 Project dependencies are managed using Dep. Read more about [Dep](https://github.com/golang/dep).
@@ -169,7 +169,7 @@ func main() {
     {
         "message": "hello my friend"
     }
-```
+    ```
 
 ## Known issues
 
