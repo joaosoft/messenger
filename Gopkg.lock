@@ -61,7 +61,7 @@
   branch = "master"
   name = "github.com/joaosoft/dbr"
   packages = ["."]
-  revision = "317cef95a1851c59eb46edd7e83aef0ccf823354"
+  revision = "462b845f560fe606311f88466619d5330d069227"
 
 [[projects]]
   branch = "master"
@@ -73,19 +73,19 @@
   branch = "master"
   name = "github.com/joaosoft/logger"
   packages = ["."]
-  revision = "183bd5151e65d920b053ec1d7c3149a69dceefaf"
+  revision = "41e546494f5da9d20ab6c107d779d0458a3b6f8e"
 
 [[projects]]
   branch = "master"
   name = "github.com/joaosoft/manager"
   packages = ["."]
-  revision = "9339e2e09aa8bff3a1d6514be0c977863e11aef4"
+  revision = "ad352268cacb80a3328c60ef3185ba7c920315ac"
 
 [[projects]]
   branch = "master"
   name = "github.com/joaosoft/migration"
   packages = ["services"]
-  revision = "95f3089c8bf8c2749739d369bc60c0cb6fbd76cc"
+  revision = "bfe6250994bf2ebfff485db0534eef4118437353"
 
 [[projects]]
   branch = "master"
@@ -103,7 +103,7 @@
   branch = "master"
   name = "github.com/joaosoft/web"
   packages = ["."]
-  revision = "7f6e5695c77fd5cd48206d5c8078d7babf68ce8a"
+  revision = "2915f01acd7ffecdeade3f7b6f37b10db0f9679a"
 
 [[projects]]
   branch = "master"
@@ -241,13 +241,13 @@
     "acme",
     "acme/autocert"
   ]
-  revision = "a1f597ede03a7bef967a422b5b3a5bd08805a01e"
+  revision = "b7391e95e576cacdcdd422573063bc057239113d"
 
 [[projects]]
   branch = "master"
   name = "golang.org/x/sys"
   packages = ["unix"]
-  revision = "6c81ef8f67ca3f42fc9cd71dfbd5f35b0c4b5771"
+  revision = "f49334f85ddcf0f08d7fb6dd7363e9e6d6b777eb"
 
 [[projects]]
   name = "golang.org/x/text"
@@ -265,8 +265,8 @@
 [[projects]]
   name = "google.golang.org/appengine"
   packages = ["cloudsql"]
-  revision = "e9657d882bb81064595ca3b56cbe2546bbabf7b1"
-  version = "v1.4.0"
+  revision = "54a98f90d1c46b7731eb8fb305d2a321c30ef610"
+  version = "v1.5.0"
 
 [[projects]]
   name = "gopkg.in/yaml.v2"
