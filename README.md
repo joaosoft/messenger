@@ -49,6 +49,7 @@ Project dependencies are managed using Dep. Read more about [Dep](https://github
         "database": "schema/db/postgres"
       },
       "db": {
+        "schema": "messenger",
         "driver": "postgres",
         "datasource": "postgres://user:password@localhost:7000/postgres?sslmode=disable&search_path=messenger"
       },
