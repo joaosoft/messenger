@@ -61,7 +61,7 @@
   branch = "master"
   name = "github.com/joaosoft/dbr"
   packages = ["."]
-  revision = "462b845f560fe606311f88466619d5330d069227"
+  revision = "1248e96be25c1481f97f2a8d16c3fcee7b3f22c2"
 
 [[projects]]
   branch = "master"
