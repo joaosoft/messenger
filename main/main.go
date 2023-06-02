@@ -1,7 +1,7 @@
 package main
 
 import (
-	"messenger"
+	"github.com/joaosoft/messenger"
 )
 
 func main() {
