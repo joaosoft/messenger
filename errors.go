@@ -6,5 +6,5 @@ import (
 )
 
 var (
-	ErrorNotFound = errors.New(errors.ErrorLevel, int(web.StatusNotFound), "not found")
+	ErrorNotFound = errors.New(errors.LevelError, int(web.StatusNotFound), "not found")
 )

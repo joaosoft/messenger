@@ -8,9 +8,9 @@ require (
 	github.com/joaosoft/logger v0.0.0-20230531142923-753c0a3e836a
 	github.com/joaosoft/manager v0.0.0-20230531145924-a549066d2284
 	github.com/joaosoft/migration v0.0.0-20230531143955-8d9130f5a39d
-	github.com/joaosoft/socket v0.0.0-20190319211332-a5f6408315eb
+	github.com/joaosoft/socket v0.0.0-20240320151229-e3c85e7a2456
 	github.com/joaosoft/validator v0.0.0-20230531142908-28a5b2f72266
-	github.com/joaosoft/web v0.0.0-20230531143830-cd31d8a8c35e
+	github.com/joaosoft/web v0.0.0-20230602093036-331880399e29
 	github.com/oklog/ulid v1.3.1
 )
 
